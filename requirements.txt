@@ -1,0 +1,20 @@
+# Core scientific stack (used by both experiments)
+numpy==2.2.6
+pandas==3.0.1
+scipy==1.17.1
+scikit-learn==1.8.0
+matplotlib==3.10.8
+seaborn==0.13.2
+tqdm==4.67.3
+
+# Sampler acceleration (used by exp1_simulation)
+numba==0.61.2
+
+# LLM inference + dataset access (only required by exp2_llm_evaluation)
+torch==2.10.0
+torchvision==0.25.0
+torchaudio==2.10.0
+transformers==4.57.6
+huggingface_hub==0.36.2
+datasets==4.6.0
+vllm==0.17.0
