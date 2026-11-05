@@ -3,6 +3,17 @@
 This repository provides the implementation used to reproduce the numerical results
 in **Generalized Priority-Aware Shapley Value**, accepted at NeurIPS 2026.
 
+## Citation
+
+```bibtex
+@inproceedings{lee2026generalized,
+  title     = {Generalized Priority-Aware Shapley Value},
+  author    = {Lee, Kiljae and Liu, Ziqi and Tang, Weijing and Zhang, Yuan},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year      = {2026}
+}
+```
+
 ## Requirements
 
 - Python 3.11+
