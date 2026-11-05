@@ -1,7 +1,7 @@
 # Generalized Priority-Aware Shapley Value
 
-This repository provides the implementation used to reproduce the numerical
-results in **Generalized Priority-Aware Shapley Value (GPASV)**.
+This repository provides the implementation used to reproduce the numerical results
+in **Generalized Priority-Aware Shapley Value**, accepted at NeurIPS 2026.
 
 ## Requirements
 
